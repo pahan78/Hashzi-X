@@ -4,11 +4,11 @@
   "description": "Amazone project - a Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./Hashzi-1/bot.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "supervisorn -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xneon2/Hashzi-1.git"
+    "url": "git+https://github.com/pahan78/Hashzi-1.git"
   },
   "keywords": [
     "whatsapp",
